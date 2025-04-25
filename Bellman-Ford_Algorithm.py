@@ -1,8 +1,3 @@
-#code by Kartheek Vikash Meesala
-#email: letter2kartheekvikashmeesala@gmail.com
-#Run it in VScode or Jupitor as online compilers may not support GUI output
-#https://github.com/kartheekvikash/Algorithms.git
-
 
 import tkinter as tk  # Import the Tkinter library for GUI creation
 import math  # Import math module to use infinity representation
